@@ -1,0 +1,93 @@
+.banner-section{
+    min-height: 550px;
+    width: 100%;
+    background-image: url("../img/b.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-tittle{
+    font-size: 50px;
+    /*text-align: justify;*/
+    padding: 15px;
+}
+
+.p-l-15{padding-left: 15px}
+
+.border-radius-0{border-radius: 0;}
+
+.service-section{
+    background-color: #0e3e7f;
+}
+
+.f-s-40{font-size: 40px}
+
+.capacity-card-img{height: 300px}
+
+.count-section{
+    background-image: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.m-t-110{margin-top: 110px}
+.exp-tittle{color: #c5d4e9}
+
+.box{
+    height: 4px;
+    width:60px;
+    background-color: gray;
+    margin-bottom: 25px;
+}
+
+.about-card-shadow{
+    box-shadow: 1px 1px 19px 4px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 1px 19px 4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 19px 4px rgba(0,0,0,0.75);
+}
+
+.team-section{
+    background-image: url("../img/Untitled1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.team-member-one{
+    background-image: url("../img/004.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.team-member-two{
+    background-image: url("../img/011.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.team-member-three{
+    background-image: url("../img/003.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.btn-blue{
+    background-color: #143f7d;
+    color: white;
+}
+
+.contact-right-img{
+    height: 525px;
+}
+
+.big-footer-section{
+    background-color: #143f7d;
+}
